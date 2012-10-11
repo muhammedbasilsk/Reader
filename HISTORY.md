@@ -1,11 +1,10 @@
-
 ## History
 
 2012-10-05: Version 2.6.1
 
 	- Greatly improved thumb operation cancel handling.
 	- iOS 4 support and various other miscellaneous fixes.
-
+        - test
 2012-09-24: Version 2.6.0
 
 	- Refactored to use ARC memory management.
